@@ -6,6 +6,6 @@ Colaboradores: Aguinaldo Marcenes, Luis Brandão e Matheus de Sousa
 
 
 <h3 align="center">
-    <img alt="Header" title="#Header" src="assets/img/header.jpg" style="width:400px margin-right:8px"/>
-    <img alt="Menu" title="#Menu" src="assets/img/menu.jpg" style="width:400px" />
+    <img alt="Header" title="#Header" src="assets/img/header.jpg" style="width:300px margin-right:8px"/>
+    <img alt="Menu" title="#Menu" src="assets/img/menu.jpg" style="width:300px" />
 </h3>
