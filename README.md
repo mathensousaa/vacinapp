@@ -8,5 +8,3 @@ Colaboradores: Aguinaldo Marcenes, Luis Brandão e Matheus de Sousa
     <img alt="Header" title="#Header" src="assets/img/header.jpg" />
     <img alt="Menu" title="#Menu" src="assets/img/menu.jpg" />
 </h1>
-=======
->>>>>>> 42fda172297c97a774e8d70798cec8fb56d7daba
