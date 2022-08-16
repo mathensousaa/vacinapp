@@ -4,7 +4,7 @@ VacinApp é um projeto em C++ que cadastra e exibe informações sobre vacinas p
 Colaboradores: Aguinaldo Marcenes, Luis Brandão e Matheus de Sousa
 
 
-### Imagens do projeto
+## Imagens do projeto
 
 <h3 align="center">
     <img alt="Header" title="#Header" src="assets/img/header.jpg" style="width:400px"/>
