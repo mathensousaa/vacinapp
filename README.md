@@ -6,7 +6,7 @@ Colaboradores: Aguinaldo Marcenes, Luis Brandão e Matheus de Sousa
 
 ## Imagens do projeto
 
-<h3 align="center" style="display: flex; justify-content: space-between">
-    <img alt="Header" title="#Header" src="assets/img/header.jpg" style="width:300px"/>
-    <img alt="Menu" title="#Menu" src="assets/img/menu.jpg" style="width:300px" />
+<h3 align="center">
+    <img alt="Header" title="#Header" src="assets/img/header.jpg" style="width:400px"/>
+    <img alt="Menu" title="#Menu" src="assets/img/menu.jpg" style="width:400px" />
 </h3>
